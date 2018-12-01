@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Kyele N01163090</string>
+
+    <string name="openNavDrawer">Open Navigation Drawer</string>
+    <string name="closeNavDrawer">Close Navigation Drawer</string>
+    <string name="helpurl">https://stackoverflow.com/</string>
+    <string name="longitude">Longitude: </string>
+    <string name="latitude">Latitude: </string>
+</resources>
